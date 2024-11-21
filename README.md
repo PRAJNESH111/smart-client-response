@@ -39,6 +39,8 @@ Smart Client Response is a Streamlit-based application designed to generate prof
 ##Running the Application
 
    1. Activate the virtual environment (if not already activated):
+
+
             myenv\Scripts\activate
 
    2.Run the Streamlit app:
