@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Smart Client Response
 
 Smart Client Response is a Streamlit-based application designed to generate professional emails dynamically based on client details and project requirements. It simplifies communication, ensuring clarity and professionalism in responses.
@@ -39,8 +39,10 @@ Smart Client Response is a Streamlit-based application designed to generate prof
 ##Running the Application
 
    1. Activate the virtual environment (if not already activated):
-        myenv\Scripts\activate
+      
+       myenv\Scripts\activate
 
    2.Run the Streamlit app:
-    streamlit run emailapp.py
+   
+       streamlit run emailapp.py
 
