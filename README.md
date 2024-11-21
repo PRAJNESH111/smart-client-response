@@ -36,7 +36,7 @@ Smart Client Response is a Streamlit-based application designed to generate prof
 
     pip install -r requirements.txt
 
-##Running the Application
+## Running the Application
 
    1. Activate the virtual environment (if not already activated):
 
