@@ -50,6 +50,8 @@ Smart Client Response is a Streamlit-based application designed to generate prof
 
 ## Download Demo Video 
 
+      https://github.com/PRAJNESH111/Prajnesh-Kumar_smart-client-response_Sahyadri-College-of-engineering-and-management-adyar-mangalore/blob/main/demo-smart-client-response.mp4
+
       
       
 
